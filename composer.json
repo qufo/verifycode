@@ -1,6 +1,6 @@
 {
-  "name": "qufo/jwt",
-  "description": "Simple Json Web Token toolkit",
+  "name": "qufo/verifycode",
+  "description": "Simple Verifycode for php",
   "type": "library",
   "require": {
     "php": ">=5.6.4 || ^7.0",
