@@ -3,7 +3,7 @@
 ## Install
 add 
 ```
-    "qufo/verifycdoe":"dev-master"
+    "qufo/verifycode":"dev-master"
 ```
 to your composer.json, and composer update.
 
